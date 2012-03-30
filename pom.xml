@@ -21,13 +21,17 @@
 	<dependency>
 		<groupId>java3d</groupId>
 		<artifactId>vecmath</artifactId>
-		<version>1.3.1</version>
+		<version>1.5.1</version>
+		<scope>system</scope>
+		<systemPath>C:\Program Files\Java\Java3D\1.5.1\lib\ext\vecmath.jar</systemPath>
 	</dependency>
 	
 	<dependency>
 		<groupId>java3d</groupId>
-		<artifactId>j3d-core</artifactId>
-		<version>1.3.1</version>
+		<artifactId>j3dcore</artifactId>
+		<version>1.5.1</version>
+		<scope>system</scope>
+		<systemPath>C:\Program Files\Java\Java3D\1.5.1\lib\ext\j3dcore.jar</systemPath>
 	</dependency>
 	
   </dependencies>
